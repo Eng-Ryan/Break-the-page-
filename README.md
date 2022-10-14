@@ -9,4 +9,4 @@ work that can cause harm to any websites. However, if it is done by a very skill
 hacker, a web code weakness can unlock, thus someone gain root level access of web
 servers and from there attacks on other networked servers can be executed. 
 
-For detail Read the Document Publiished iiin My Website.
+For detail Read the Document Publiished in My Website.
